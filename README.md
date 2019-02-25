@@ -16,6 +16,9 @@ This proposed work presents a novel approach to vegetable grading using deep con
 - urllib
 - IP cam application in ur phone
 
+You can install all the required libraries by running the following command
+### pip install requiement.txt
+
 # Functionalities
 
 - Pre processing the image
